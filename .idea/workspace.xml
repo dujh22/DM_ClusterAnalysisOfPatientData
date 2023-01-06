@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3927d53c-388d-4ab8-beb8-9506cb76b967" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/hierarchical_clustering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diabetes_data_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/diabetes_data_preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hierarchical_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hierarchical_clustering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672811326233</updated>
       <workItem from="1672811333798" duration="2186000" />
-      <workItem from="1672814439435" duration="9856000" />
+      <workItem from="1672814439435" duration="14827000" />
     </task>
     <servers />
   </component>
