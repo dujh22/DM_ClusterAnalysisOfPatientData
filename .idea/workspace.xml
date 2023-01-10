@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3927d53c-388d-4ab8-beb8-9506cb76b967" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hierarchical_clustering2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hierarchical_clustering2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3927d53c-388d-4ab8-beb8-9506cb76b967" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +71,7 @@
       <workItem from="1672814439435" duration="19339000" />
       <workItem from="1673280615032" duration="19038000" />
       <workItem from="1673331734890" duration="1415000" />
-      <workItem from="1673334961869" duration="7205000" />
+      <workItem from="1673334961869" duration="7825000" />
     </task>
     <servers />
   </component>
